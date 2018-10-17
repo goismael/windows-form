@@ -1,0 +1,10 @@
+C:\CC6\windowformdesign\WindowsFormsExample\bin\Debug\WindowsFormsExample.exe.config
+C:\CC6\windowformdesign\WindowsFormsExample\bin\Debug\WindowsFormsExample.exe
+C:\CC6\windowformdesign\WindowsFormsExample\bin\Debug\WindowsFormsExample.pdb
+C:\CC6\windowformdesign\WindowsFormsExample\obj\Debug\WindowsFormsExample.csprojAssemblyReference.cache
+C:\CC6\windowformdesign\WindowsFormsExample\obj\Debug\WindowsFormsExample.Form1.resources
+C:\CC6\windowformdesign\WindowsFormsExample\obj\Debug\WindowsFormsExample.Properties.Resources.resources
+C:\CC6\windowformdesign\WindowsFormsExample\obj\Debug\WindowsFormsExample.csproj.GenerateResource.cache
+C:\CC6\windowformdesign\WindowsFormsExample\obj\Debug\WindowsFormsExample.csproj.CoreCompileInputs.cache
+C:\CC6\windowformdesign\WindowsFormsExample\obj\Debug\WindowsFormsExample.exe
+C:\CC6\windowformdesign\WindowsFormsExample\obj\Debug\WindowsFormsExample.pdb
